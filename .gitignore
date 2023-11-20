@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+nl2sql/
 
 # Spyder project settings
 .spyderproject
